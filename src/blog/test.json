@@ -1,0 +1,11 @@
+{
+  "options": {
+    "featured": false,
+    "date": "{{now}}",
+    "order": -1
+  },
+  "title": "Test",
+  "description": "Dit is een eerste blog post met markdown",
+  "body": "# Dit is een heading 1\n### Heading 2 ",
+  "image": "https://minimal-decap-cms-tests.netlify.app/uploads/a-pieter-1-gemiddeld-.jpg"
+}
